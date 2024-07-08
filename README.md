@@ -1,5 +1,5 @@
 ## Olá, eu sou o Leonardo!👋
-- 📚 Sou estudante do curso técnico em informática
+- 📚 Estudante do curso técnico em informática
 - 💻 Atualmente estou aprendendo: python, html e css
 - 👨‍💻 Estou em busca do meu primeiro emprego na área
 
