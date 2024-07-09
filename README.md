@@ -1,7 +1,7 @@
 ## Olá, eu sou o Leonardo!👋
 - 📚 Estudante do curso técnico em informática
 - 💻 Atualmente estou aprendendo: python, html e css
-- 👨‍💻 Estou em busca do meu primeiro emprego na área
+- 👨‍💻 Em busca do meu primeiro emprego na área
 
 
 
@@ -15,7 +15,7 @@
 # Contatos:
 <div>
 <a href = "leosou0035@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maysa-vieira-dos-santos-21a9542a3?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BtyKEZZ%2B8Q%2FiNPAUog4z1Kg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="http://linkedin.com/in/leonardo-souza-9554882b1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
