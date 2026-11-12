@@ -1,7 +1,6 @@
 ## Olá, eu sou o Leonardo!👋
-- 📚 Estudante do curso técnico em informática
-- 💻 Atualmente estou aprendendo: python, html e css
-- 👨‍💻 Em busca do meu primeiro emprego na área
+- 📚 Estudante de Sistemas de Informação
+- 👨‍💻 Desenvolvedor de Software full-stack 
 
 
 
